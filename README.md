@@ -9,7 +9,6 @@ I will share Discord.JS codes that can be an example for you. The codes will be 
 
 * [Discord](https://discord.com/channels/@me/704697319786020946)
 * [Discord Server](https://discord.gg/xEVU78cZSF)
-* [Mail](renanuya@gmail.com)
 
 <br><br><br>
 
@@ -21,4 +20,3 @@ Size örnek olabilecek Discord.JS kodları paylaşacağım. Kodlar hem Türkçe 
 
 * [Discord](https://discord.com/channels/@me/704697319786020946)
 * [Discord Sunucum](https://discord.gg/xEVU78cZSF)
-* [Mail](renanuya@gmail.com)
