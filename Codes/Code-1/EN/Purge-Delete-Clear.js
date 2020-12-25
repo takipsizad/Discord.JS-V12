@@ -16,7 +16,7 @@ class CommandPurge extends Command{
      * @param {Client} args 
      */
     async execute(message, args){
-        if(!args[1]) return message.reply ('Error, please define second argument')
+        if(!args[1]) return message.reply ('Error, please specify the amount you want to delete.')
         message.channel.bulkDelete(args[1]);
         message.channel.send(`${args[1]} messages deleted!`)
     } }
