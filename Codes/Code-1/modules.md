@@ -1,2 +1,3 @@
 # Required modules
-* Discord.JS
+* discord.js
+* leet
