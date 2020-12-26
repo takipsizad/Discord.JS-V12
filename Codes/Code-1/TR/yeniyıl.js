@@ -17,3 +17,4 @@ exports.help = {
   description: 'Yeni yıla ne kadar zaman kaldığını gösterir',
   usage: "!yılbaşı"
 };
+//MeyiN36
