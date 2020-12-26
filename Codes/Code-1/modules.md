@@ -1,0 +1,2 @@
+# Required modules
+* Discord.JS
